@@ -1,14 +1,14 @@
 1. Descrição Geral do Projeto:
-  Este projeto tem como objetivo a replicação e refinamento do modelo lógico de banco de dados para um cenário de e-commerce, a partir de um modelo conceitual EER.
-  O foco está na correta definição de:
+  - Este projeto tem como objetivo a replicação e refinamento do modelo lógico de banco de dados para um cenário de e-commerce, a partir de um modelo conceitual EER.
+  - O foco está na correta definição de:
 
-  - Chaves primárias e estrangeiras
-  - Restrições de integridade (constraints)
-  - Mapeamento de herança (especialização/generalização)
-  - Relacionamentos entre entidades
-  - Criação do script SQL completo
-  - Inserção de dados para testes
-  - Desenvolvimento de queries SQL mais complexas
+      - Chaves primárias e estrangeiras
+      - Restrições de integridade (constraints)
+      - Mapeamento de herança (especialização/generalização)
+      - Relacionamentos entre entidades
+      - Criação do script SQL completo
+      - Inserção de dados para testes
+      - Desenvolvimento de queries SQL mais complexas
 
 2. Refinamentos Aplicados ao Modelo Conceitual:
 
