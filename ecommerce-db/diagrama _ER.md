@@ -1,4 +1,5 @@
 erDiagram
+    
     CLIENTE ||--o{ PEDIDO : realiza
     CLIENTE ||--|| CLIENTE_PF : especializa
     CLIENTE ||--|| CLIENTE_PJ : especializa
