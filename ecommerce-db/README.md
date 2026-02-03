@@ -48,7 +48,28 @@
     - produto
     - fornecedor
     - vendedor
+    - estoque
 
-estoque
+4. Requisitos Atendidos:
 
-pedido_produto
+  - Cliente Pessoa Física (PF) ou Pessoa Jurídica (PJ), mas nunca ambos
+  - Múltiplas formas de pagamento por pedido
+  - Entrega com status e código de rastreio
+  - Relacionamentos entre clientes, pedidos, produtos, fornecedores, vendedores e estoque
+  - Queries com:
+    - SELECT
+    - WHERE
+    - ORDER BY
+    - HAVING
+    - JOIN
+
+  Atributos derivados:
+  - pedido_produto
+    
+5. Considerações Finais:
+
+  - Este projeto demonstra:
+      - Domínio de modelagem lógica e relacional
+      - Aplicação correta de EER → Relacional
+      - Uso avançado de SQL
+      - Organização para avaliação acadêmica e portfólio profissional
